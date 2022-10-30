@@ -7,6 +7,21 @@ LICENSE: [MIT](./license.md)
 ---
 ### Содержание:
 1. [git add](./add.md)
+
+2. [git init](./init.md)
+
+3. [git status](./status.md)
+
+4. [git log](./log.md)
+
+5. [git diff](./diff.md)
+
+6. [git clone](./clone.md)
+
+7. [Ссылка на *полную* документацию](https://git-scm.com/docs/git)
+
+
+---
 ---
 
 GIT logo by Jason Long - https://git-scm.com/downloads/logos,
