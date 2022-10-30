@@ -3,7 +3,7 @@
 LICENSE: [MIT](./license.md)
 
 
-![git-log](./assets/git-logo.png)
+![git-log   ](./assets/git-logo.png)
 ---
 ### Содержание:
 1. [git add](./add.md)
